@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<levels>
+	<level1>
+		<speed>1</speed>
+		<attackSpeed>1</attackSpeed>
+		<attack>1</attack>
+		<HP>1</HP>
+		<attackDistance>1</attackDistance>
+		<r>10.0</r>
+	</level1>
+</levels>
